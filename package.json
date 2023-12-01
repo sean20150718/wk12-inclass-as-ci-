@@ -8,6 +8,7 @@
     "start": "next start",
     "test": "jest --watchAll",
     "cypress": "cypress open",
+    "ci:test": "jest",
     "cypress:headless": "cypress run"
   },
   "dependencies": {
